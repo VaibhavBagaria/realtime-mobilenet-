@@ -1,0 +1,55 @@
+  .heading {
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+    font-size: 30px;
+  }
+
+  .heading_div1 {
+    background: white;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 20px;
+    padding: 20px !important;
+    font-size: 25px;
+  }
+
+  .heading_div2 {
+    font-size: 18px;
+  }
+
+  .result_para_tag {
+    box-shadow: 5px 5px 5px grey;
+    font-size: 20px;
+    background-color: aquamarine;
+    width:300px;
+    margin-top: 10px;
+  }
+
+  canvas {
+    border:5px solid black;
+    box-shadow:5px 5px 5px cyan;
+    margin-top: 200px;
+    margin-bottom: 200px;
+  }
+
+  canvas:hover{
+    box-shadow: 5px 5px 5px blue;
+  }
+
+  body{
+    background-image: url("background.jpg");
+  }
+
+  .copy_right_footer {
+    bottom:0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    background-color:gray ;
+    color:greenyellow;
+    font-size: 20px;
+    line-height: 2;
+    margin-top: 100px;
+  }
